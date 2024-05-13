@@ -1,6 +1,6 @@
 ### Boas vindas ao meu perfil :rodriguesclara1 
 
-Meu nome é Clara Rodrigues🫀
+Meu nome é Clara Rodrigues 
 
 - Estou estudando na Alura
 - Estou me desenvolvendo na linguagem JavaScript
